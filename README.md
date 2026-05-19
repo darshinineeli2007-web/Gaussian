@@ -44,12 +44,8 @@ for i in range(13):
 result=solve_guassian(data)
 print("".join([f"X{i} = {val:.2f} "for i,val in enumerate(result)]))
 ```
-
 ## Output:
-<img width="982" height="593" alt="image" src="https://github.com/user-attachments/assets/c77fbc4b-228b-4466-9761-7ee47303b432" />
 
-
-
+<img width="1242" height="602" alt="image" src="https://github.com/user-attachments/assets/76f5b503-c98f-49c0-b86a-7d5aaffc4bee" />
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
-
