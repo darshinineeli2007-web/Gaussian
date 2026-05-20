@@ -23,7 +23,6 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 Program to solve a matrix using Gaussian elimination without partial pivoting.
 Developed by: Neeli darshini
 RegisterNumber: 212225230200
-
 import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
 import numpy as np
@@ -46,7 +45,8 @@ print("".join([f"X{i} = {val:.2f} "for i,val in enumerate(result)]))
 ```
 ## Output:
 
-<img width="1242" height="602" alt="image" src="https://github.com/user-attachments/assets/76f5b503-c98f-49c0-b86a-7d5aaffc4bee" />
+<img width="775" height="455" alt="image" src="https://github.com/user-attachments/assets/c338463a-d2ca-47db-959a-b5ce451f738f" />
+
 
 ## Result:
 
