@@ -40,5 +40,6 @@ print("".join([f"X{i} = {val:.2f} "for i,val in enumerate(result)]))
 ```
 ## Output:
 <img width="775" height="455" alt="image" src="https://github.com/user-attachments/assets/c338463a-d2ca-47db-959a-b5ce451f738f" />
+
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
